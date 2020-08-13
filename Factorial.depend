@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1597052165 source:c:\users\shashank\desktop\miniproject_template-master\example_programs\factorial\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597052165 c:\users\shashank\desktop\miniproject_template-master\example_programs\factorial\unity\unity.h
+	"unity_internals.h"
+
+1597052165 c:\users\shashank\desktop\miniproject_template-master\example_programs\factorial\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597239284 source:c:\users\shashank\desktop\miniproject_template-master\example_programs\factorial\main.c
+	"test_factorial.h"
+
+1597052165 c:\users\shashank\desktop\miniproject_template-master\example_programs\factorial\test\test_factorial.h
+
+1597239284 source:c:\users\shashank\desktop\miniproject_template-master\example_programs\factorial\test\test_factorial.c
+	"unity.h"
+	"factorial.h"
+
+1597052165 c:\users\shashank\desktop\miniproject_template-master\example_programs\factorial\inc\factorial.h
+
+1597304863 source:c:\users\shashank\desktop\factorial\main.c
+	"test_factorial.h"
+
+1597052165 c:\users\shashank\desktop\factorial\test\test_factorial.h
+
+1597310812 source:c:\users\shashank\desktop\factorial\test\test_factorial.c
+	"unity.h"
+	"factorial.h"
+	<string.h>
+
+1597052165 c:\users\shashank\desktop\factorial\unity\unity.h
+	"unity_internals.h"
+
+1597052165 c:\users\shashank\desktop\factorial\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597308641 c:\users\shashank\desktop\factorial\inc\factorial.h
+
+1597052165 source:c:\users\shashank\desktop\factorial\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597307499 source:c:\users\shashank\desktop\factorial\src\factorial.c
+	"factorial.h"
+	<string.h>
+
